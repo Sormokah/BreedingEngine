@@ -1,0 +1,16 @@
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.exe
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.deps.json
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.runtimeconfig.json
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.runtimeconfig.dev.json
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.dll
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingSandbox.pdb
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.AssemblyInfoInputs.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.AssemblyInfo.cs
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.dll
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.pdb
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.genruntimeconfig.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingEngine.dll
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\bin\Debug\netcoreapp3.1\BreedingEngine.pdb
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.csprojAssemblyReference.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingSandbox\obj\Debug\netcoreapp3.1\BreedingSandbox.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\bin\Debug\netcoreapp3.1\BreedingEngine.deps.json
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\bin\Debug\netcoreapp3.1\BreedingEngine.dll
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\bin\Debug\netcoreapp3.1\BreedingEngine.pdb
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.csprojAssemblyReference.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.AssemblyInfoInputs.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.AssemblyInfo.cs
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.csproj.CoreCompileInputs.cache
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.dll
+C:\Users\Lopac\source\repos\BreedingEngine\BreedingEngine\obj\Debug\netcoreapp3.1\BreedingEngine.pdb
